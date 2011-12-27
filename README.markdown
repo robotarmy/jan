@@ -18,7 +18,7 @@ It may get smaller
 
 or
 
-  `curl https://github.com/robotarmy/jan/raw/master/bootstrap.sh -o - | sh`
+  `curl https://github.com/robotarmy/jan/raw/master/bootstrap -o - | sh`
 
 ## Updating to the latest version
 
